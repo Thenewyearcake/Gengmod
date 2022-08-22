@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_grains"
+    }
+  },
+  "result": {
+
+    "item": "gengmod:yee_ingots",
+    "count": 1
+  }
+}

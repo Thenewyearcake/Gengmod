@@ -1,0 +1,145 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_ingots"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_block",
+    "count": 1
+  },
+
+"pattern": [
+  "   ",
+  " # ",
+  "   "
+],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    " # ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "#  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "  #",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "   ",
+    "#  ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "   ",
+    "  #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "gengmod:yee_block"
+    }
+  },
+  "result": {
+    "item": "gengmod:yee_ingots",
+    "count": 9
+  }
+}
+
